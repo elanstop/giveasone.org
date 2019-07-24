@@ -1,6 +1,6 @@
 ## giveasone.org
 
-### High-level requirements
+#### High-level requirements
 - [x] Domain (giveasone.org through AWS)
 - [x] Host (AWS EC2)
 - [x] SSL (via let's encrypt)
@@ -34,7 +34,6 @@
 #### About us page requirements
 - [ ] High level description of how giveasone works
 - [ ] Detailed description of how giveasone works
-- [ ]
 
 #### Data model requirements
 ##### User

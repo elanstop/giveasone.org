@@ -3,7 +3,7 @@
 ### High-level requirements
 - [x] Domain (giveasone.org through AWS)
 - [x] Host (AWS EC2)
-- [x} SSL (via let's encrypt)
+- [x] SSL (via let's encrypt)
 - [x] Email notifications (via AWS SES)
 - [ ] Backend framework
 - [ ] Frontend framework

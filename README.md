@@ -5,7 +5,7 @@
 - [x] Host (AWS EC2)
 - [x] SSL (via let's encrypt)
 - [x] Email notifications (via AWS SES)
-- [ ] Backend framework
+- [x] Backend framework (Django)
 - [ ] Frontend framework
 - [ ] Database engine
 - [ ] 3rd party payments (do we still want to use Stripe?)
@@ -54,3 +54,6 @@
 * Project communication (slack, github, irc, matrix, something else?)
 * Non-profit status
 * Legal requirements and protections
+* CI (coala-bears)
+* Coding standards (type hints?)
+* Python version 3.7?
